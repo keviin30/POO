@@ -15,16 +15,8 @@
 
       </div>
       <div class="col-md-4 ">
-        <div class="col-md-2">
-
-        </div>
-        <div class="col-md-8">
-          <div class="start">
-            <button type="button" class="btn btn-danger">Start The Game</button>
-          </div>
-        </div>
-        <div class="col-md-2">
-
+        <div class="start">
+          <center><a href="donjon.php"><button type="button" class="btn btn-danger">Start The Game</button></a></center>
         </div>
       </div>
       <div class="col-md-4">
