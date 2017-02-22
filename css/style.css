@@ -1,5 +1,4 @@
-
-#conteneur
+conteneur
 {
     display: flex;
     flex-direction: row;
@@ -8,4 +7,11 @@
     margin-left: 2%;
     margin-right: 2%;
     margin-top: 10%;
+}
+.btn{
+    font-size: 35px !important;
+    border-radius: 8px !important;
+}
+.btn-danger{
+    margin-top: 80%;
 }
