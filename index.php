@@ -1,5 +1,15 @@
 <!DOCTYPE html>
 <html>
+
+<?php
+require 'Perso.php';
+
+$perso1 = new Perso();
+
+var_dump($perso1);
+
+?>
+
   <head>
     <meta charset="utf-8">
     <title>Combat</title>
