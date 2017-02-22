@@ -6,7 +6,7 @@
     justify-content: space-between;
     margin-left: 2%;
     margin-right: 2%;
-    margin-top: 10%;
+    margin-top: 3%;
 }
 
 .btn{
@@ -15,4 +15,9 @@
 }
 .btn-danger{
     margin-top: 80%;
+}
+.cent{
+  text-align: center;
+  margin-top: 5%;
+  font-size: 35px;
 }

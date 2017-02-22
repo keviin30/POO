@@ -47,7 +47,7 @@
                             <h3>Fiche Personnage</h3>
                             <h4>Magicien</h4>
                             <p>Créé le 18/01/2017</p>
-
+                            <p>Le guerrier est un véritable monstre de guerre doublé d'un tacticien hors pair. Il s'est entraîné encore et encore, jusqu'à maîtriser les gammes du maniement de son arme. Il s'est endurci par le travail, la souffrance, et grâce à une rigueur et une force mentale à toute épreuve. D'ordinaire, les guerriers sont dotés d'un grand sens de l'honneur.</p>
                           </div>
                           <div class="col-md-6 form-top-right">
                             <div class="col-sm-4">
