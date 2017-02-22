@@ -9,12 +9,17 @@
 <body style="background:url(img/fond.jpg); background-position: center center;
 background-repeat: no-repeat; background-attachment: fixed; background-size: cover; background-color: white;">
 
-
-    <div id="conteneur">
-        <div class="element"><img src="img/door.png"></div>
-        <div class="element"><img src="img/door.png"></div>
-        <div class="element"><img src="img/door.png"></div>
+    <div class="col-md-12">
+      <p class="cent">Donjon</p>
     </div>
+    <div class="col-md-12">
+      <div id="conteneur">
+          <a href="#"><div class="element"><img src="img/door.png"></div></a>
+          <a href="#"><div class="element"><img src="img/door.png"></div></a>
+          <a href="#"><div class="element"><img src="img/door.png"></div></a>
+      </div>
+    </div>
+
 
 </body>
 </html>

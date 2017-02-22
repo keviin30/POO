@@ -1,7 +1,23 @@
+#conteneur
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 3%;
+}
+
 .btn{
-  font-size: 35px !important;
-  border-radius: 8px !important;
+    font-size: 35px !important;
+    border-radius: 8px !important;
 }
 .btn-danger{
-  margin-top: 80%;
+    margin-top: 80%;
+}
+.cent{
+  text-align: center;
+  margin-top: 5%;
+  font-size: 35px;
 }
