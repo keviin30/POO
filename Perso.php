@@ -7,8 +7,6 @@ class Perso{
     public $def = 40;
     public $magie = 15;
 
-
-
 }
 
 class Guerrier extends Perso{
