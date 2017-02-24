@@ -15,8 +15,16 @@ class Guerrier extends Perso{
 }
 
 
+
 class Magicien extends Perso{
 
     public $magie = 60;
     public $atk = 10;
 }
+
+
+class Paladin extends Perso{
+    public $magie = 40;
+}
+
+
