@@ -15,7 +15,7 @@
       <div class="personnage1">
         <h4>Guerrier</h4>
         <p class="justify">Le guerrier est un véritable monstre de guerre doublé d'un tacticien hors pair. Il s'est entraîné encore et encore, jusqu'à maîtriser les gammes du maniement de son arme. Il s'est endurci par le travail, la souffrance, et grâce à une rigueur et une force mentale à toute épreuve. D'ordinaire, les guerriers sont dotés d'un grand sens de l'honneur.</p>
-        <center><button type="button" class="btn btn-danger">Selectionner</button></center>
+          <a href="profil2.php"> <center><button type="button" class="btn btn-danger">Selectionner</button></center></a>
         <center><img src="img/guerrier.png" alt=""></center>
       </div>
     </center>
@@ -25,7 +25,7 @@
       <div class="personnage2">
         <h4>Magicien</h4>
         <p class="justify">Le guerrier est un véritable monstre de guerre doublé d'un tacticien hors pair. Il s'est entraîné encore et encore, jusqu'à maîtriser les gammes du maniement de son arme. Il s'est endurci par le travail, la souffrance, et grâce à une rigueur et une force mentale à toute épreuve. D'ordinaire, les guerriers sont dotés d'un grand sens de l'honneur.</p>
-        <center><button type="button" class="btn btn-danger">Selectionner</button></center>
+        <a href="profil.php"> <center><button type="button" class="btn btn-danger">Selectionner</button></center></a>
         <center><img src="img/magicien.png" alt=""></center>
       </div>
     </center>
@@ -35,7 +35,7 @@
     <div class="personnage3">
       <h4>Paladin</h4>
       <p class="justify">Le guerrier est un véritable monstre de guerre doublé d'un tacticien hors pair. Il s'est entraîné encore et encore, jusqu'à maîtriser les gammes du maniement de son arme. Il s'est endurci par le travail, la souffrance, et grâce à une rigueur et une force mentale à toute épreuve. D'ordinaire, les guerriers sont dotés d'un grand sens de l'honneur.</p>
-      <center><button type="button" class="btn btn-danger">Selectionner</button></center>
+        <a href="profil1.php"> <center><button type="button" class="btn btn-danger">Selectionner</button></center></a>
       <center><img src="img/paladin.png" alt=""></center>
     </div>
   </center>
