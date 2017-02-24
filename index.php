@@ -16,7 +16,7 @@
       </div>
       <div class="col-md-4 ">
         <div class="start">
-          <center><a href="personnage.php"><button type="button" class="btn btn-danger">Start The Game</button></a></center>
+          <center><a href="donjon.php"><button type="button" class="btn btn-danger">Start The Game</button></a></center>
         </div>
       </div>
       <div class="col-md-4">
