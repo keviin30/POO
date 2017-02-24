@@ -13,9 +13,6 @@ $jeu = new Jeu();
 $jeu->choix($personnage);
 $_SESSION['personnage'] = $jeu->perso;
 
-/*$coffres1 = new salledonjon();
-$coffres1->ouvriruncoffre($coffres);
-var_dump($coffres1);*/
 
 $monstre = new Monstre();
 
